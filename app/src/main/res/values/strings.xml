@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FinCos</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <!-- Checkout activity -->
+    <string name="title_activity_finalpay">Finalpay</string>
+    <string name="checkout_item_description">Description</string>
+    <string name="googlepay_status_unavailable" translatable="false">Unfortunately, Google Pay is
+        not available on this phone.
+    </string>
+    <string name="payments_show_name" translatable="false">Successfully received payment data for
+        %s!
+    </string>
+    <string name="you_truely_have_a_golden_heart">You Truely Have a Golden Heart!!</string>
+    <string name="you_can_also_help_us_with_monitory_support_at">You Can also help us with monitory support at :</string>
+    <string name="srijit2_paytm">srijit2@paytm</string>
+    <string name="enter_pin_below">Enter PIN Below :</string>
+    <string name="pin_here">PIN HERE</string>
+    <string name="no">NO</string>
+    <string name="you_are_doing_a_nobel_work">You are doing a nobel work!!</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="next">NEXT</string>
+    <string name="please_enter_reason_for_donation_here">Please Enter Reason For Donation Here!</string>
+    <string name="feed_in_need_for_u">Feed In Need For U</string>
+    <string name="yes">YES</string>
+</resources>

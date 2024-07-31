@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\Android\\AndroidStudioProjects\\FinCos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Documents\\Android\\AndroidStudioProjects\\FinCos\\app\\src\\androidTest\\java\\com\\srijit\\fincos\\ExampleInstrumentedTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\androidTest\\java\\com\\srijit\\fincos\\ExampleInstrumentedTest.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Documents\\Android\\AndroidStudioProjects\\FinCos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleInstrumentedTest.java",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Android\\AndroidStudioProjects\\FinCos\\app\\src\\androidTest\\java\\com\\srijit\\fincos\\ExampleInstrumentedTest.java",
+              "RelativeDocumentMoniker": "app\\src\\androidTest\\java\\com\\srijit\\fincos\\ExampleInstrumentedTest.java",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Android\\AndroidStudioProjects\\FinCos\\app\\src\\androidTest\\java\\com\\srijit\\fincos\\ExampleInstrumentedTest.java",
+              "RelativeToolTip": "app\\src\\androidTest\\java\\com\\srijit\\fincos\\ExampleInstrumentedTest.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-13T16:05:48.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Android\\AndroidStudioProjects\\FinCos\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Android\\AndroidStudioProjects\\FinCos\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-13T16:05:38.502Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
