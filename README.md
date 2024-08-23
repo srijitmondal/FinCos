@@ -55,5 +55,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Project Maintainer**: Mithu Mondhol  
+- **Project Maintainer**: Srijit Mondal
 - [GitHub Profile](https://github.com/srijitmondal)
